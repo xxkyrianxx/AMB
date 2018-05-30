@@ -1,0 +1,2 @@
+# AMB
+Altcoin Mining Bot
